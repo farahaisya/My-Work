@@ -8,4 +8,4 @@
 *  I gained a clear understanding of the hardware that powers computers. By studying logic gates and circuits, I learned how data is processed at the lowest level. The laboratory sessions were particularly helpful for visualizing these concepts.
 
 ## SECP1513 - Technology & Information System
-* This course gave me a look at the whole IT world. I learned about cloud computing, networks, and the Internet of Things(IoT). Besides, I also learn how to work better in a team through this course.
+*  This subject introduced me to the broader IT industry. I learned about important trends such as Cloud Computing, 4IR, and Data Analytics. Additionally, the course improved my teamwork and communication skills through group discussions.
