@@ -2,7 +2,7 @@
 * This course provided me with the mathematical foundation necessary for computer science. I developed a strong understanding of logic, set theory, and functions. These concepts have improved my ability to think analytically and solve complex problems.
 
 ## SECJ1013 - Programming Technique I
-* This was my first time using C++. I learned how to use variables, loops, and functions to solve problems. I also learned about pointers and arrays, which help manage memory and lists of data.
+* I acquired fundamental programming skills using the C++ language. I learned how to use control structures, functions, and arrays to create efficient programs. I also gained experience in debugging and writing clean, structured code.
 
 ## SECR1013 - Digital Logic
 * This course taught me how computers work on the inside. I learned about logic gates (like AND, OR, NOT) and how hardware processes information. The lab work was very interesting because I could see how circuits work.
