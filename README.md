@@ -5,7 +5,7 @@
 * I acquired fundamental programming skills using the C++ language. I learned how to use control structures, functions, and arrays to create efficient programs. I also gained experience in debugging and writing clean, structured code.
 
 ## SECR1013 - Digital Logic
-* This course taught me how computers work on the inside. I learned about logic gates (like AND, OR, NOT) and how hardware processes information. The lab work was very interesting because I could see how circuits work.
+*  I gained a clear understanding of the hardware that powers computers. By studying logic gates and circuits, I learned how data is processed at the lowest level. The laboratory sessions were particularly helpful for visualizing these concepts.
 
 ## SECP1513 - Technology & Information System
 * This course gave me a look at the whole IT world. I learned about cloud computing, networks, and the Internet of Things(IoT). Besides, I also learn how to work better in a team through this course.
