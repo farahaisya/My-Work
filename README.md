@@ -1,5 +1,5 @@
 ## SECI1013 - Discrete Structure
-* I learned the basic math used in computer science. Before this, I only knew regular math, but now I understand logic, set theory, and graph theory. This course helped me think more clearly and solve problems step-by-step.
+* This course provided me with the mathematical foundation necessary for computer science. I developed a strong understanding of logic, set theory, and functions. These concepts have improved my ability to think analytically and solve complex problems.
 
 ## SECJ1013 - Programming Technique I
 * This was my first time using C++. I learned how to use variables, loops, and functions to solve problems. I also learned about pointers and arrays, which help manage memory and lists of data.
