@@ -11,3 +11,4 @@
 *  This subject introduced me to the broader IT industry. I learned about important trends such as Cloud Computing, 4IR, and Data Analytics. Additionally, the course improved my teamwork and communication skills through group discussions.
 
 ## REFLECTION OF SEMESTER 1
+* In this first semester, I improved my programming skills a lot. I went from being a beginner to a much better coder. Now I understand logic and syntax much better. The course also had many projects and presentations which pushed me to try new things and learn how to work in a team. I also learned how to divide tasks with others and how to explain difficult concepts in simple ways when presenting. Overall, this semester has helped me grow both my software and communication skills.
