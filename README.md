@@ -9,3 +9,5 @@
 
 ## SECP1513 - Technology & Information System
 *  This subject introduced me to the broader IT industry. I learned about important trends such as Cloud Computing, 4IR, and Data Analytics. Additionally, the course improved my teamwork and communication skills through group discussions.
+
+## REFLECTION OF SEMESTER 1
