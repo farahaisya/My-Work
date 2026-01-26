@@ -1,3 +1,5 @@
+# Reflection
+
 ## Assignment 1 (UTM Digital Open Day)
 * The UTMDigital Open Day assignment provided a significant bridge between my academic studies and the realities of the professional IT landscape. By engaging with industry experts, I gained a much deeper understanding of how campus-wide network infrastructures and data strategies are managed in a real-world setting. I realized that successful digital transformation relies not only on technical expertise but also on strong collaboration and a commitment to continuous learning. Ultimately, this assignment has refined my professional perspective, leaving me with a clearer vision of industry expectations and the practical skills required to succeed in my future career.
 
